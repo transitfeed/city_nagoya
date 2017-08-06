@@ -2,7 +2,7 @@
 
 このデータは、以下の著作物を改変して利用しています。
 オープンデータ一覧、名古屋市、クリエイティブ・コモンズ・ライセンス 表示 - 非営利 4.0 国際
-https://creativecommons.org/licenses/by-nc/4.0/deed.ja　 (外部リンク)別ウィンドウ
+https://creativecommons.org/licenses/by-nc/4.0/deed.ja  (外部リンク)別ウィンドウ
 
 名古屋市オープンデータ一覧
 http://www.city.nagoya.jp/shisei/category/388-3-0-0-0-0-0-0-0-0.html
