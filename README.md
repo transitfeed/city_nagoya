@@ -1,11 +1,15 @@
 # city_nagoya
 
 このデータは、以下の著作物を改変して利用しています。
+
 オープンデータ一覧、名古屋市、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際
 https://creativecommons.org/licenses/by-nc/4.0/deed.ja  (外部リンク)別ウィンドウ
 
 名古屋市オープンデータ一覧
 http://www.city.nagoya.jp/shisei/category/388-3-0-0-0-0-0-0-0-0.html
+
+このデータは、名古屋市における以下のライセンス規定に基づいています。
+
 名古屋市におけるオープンデータの取り組みについて #ライセンスに関する記述
 http://www.city.nagoya.jp/shisei/category/388-1-0-0-0-0-0-0-0-0.html
 
