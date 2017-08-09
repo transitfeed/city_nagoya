@@ -1,3 +1,3 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,jp_parent_route_id
-,231002,基幹1,栄-鳴尾車庫(ノンステップ),,3,,e4007f,ffffff,25000
-,231002,基幹1,栄-星崎(ノンステップ),,3,,e4007f,ffffff,21000
+,231002,基幹1 栄-鳴尾,基幹1 栄-鳴尾車庫(ノンステップ),,3,,e4007f,ffffff,25000
+,231002,基幹1 栄-星崎,基幹1 栄-星崎(ノンステップ),,3,,e4007f,ffffff,21000
